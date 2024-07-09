@@ -15,8 +15,7 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 ### Links
 
-[My favorite actor and actresses URL](#)
-
+[My favorite actor and actresses URL](https://axinitm.github.io/ODC-Actors/)
 ### The task and my comments
 
 Creating a page with favorite actresses and actors.
