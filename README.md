@@ -19,8 +19,11 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 ### The task and my comments
 
 Creating a page with favorite actresses and actors.
-My comments: all tasks are accomplished.
-Additional functions: movie poster zooms in when you put the cursor over it.
+My comments: 
+- all tasks are accomplished;
+- optimized for mobile screens (additional functions);
+- movie poster zooms in when you put the cursor over it (additional functions).
+
 
 ### Built with
 
